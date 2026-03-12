@@ -64,6 +64,7 @@ docker run -p 3000:3000 --env-file .env ai-crypto-insight
 ## AI Setup
 
 This project uses **OpenAI GPT-4o-mini** for generating token insights.
+I have also spend 7.1$ on this if possible pls refund me, thankyou.
 
 1. Get an API key from [OpenAI Platform](https://platform.openai.com/api-keys)
 2. Add it to your `.env` file:
